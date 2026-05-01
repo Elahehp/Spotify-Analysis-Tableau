@@ -17,7 +17,7 @@ This project is an interactive exploration of Spotify's track features (Danceabi
 
 ## 📈 Dashboard Preview
 > *Tip: Take a screenshot of your Tableau dashboard and upload the image to this repo!*
-![Spotify Dashboard](your_screenshot_name.png)
+![Spotify Dashboard](Dashboard 1.png)
 
 ---
 ### 🔗 Quick Links
