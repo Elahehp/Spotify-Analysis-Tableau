@@ -16,8 +16,7 @@ This project is an interactive exploration of Spotify's track features (Danceabi
 - **Data Storytelling:** Designed an "Executive Dashboard" layout for quick insights into what makes a song "hit" material.
 
 ## 📈 Dashboard Preview
-> *Tip: Take a screenshot of your Tableau dashboard and upload the image to this repo!*
-![Spotify Dashboard](Dashboard 1.png)
+![Spotify Dashboard](Dashboard1.png)
 
 ---
 ### 🔗 Quick Links
